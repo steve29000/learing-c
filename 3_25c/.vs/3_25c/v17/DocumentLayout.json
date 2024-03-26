@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs2022\\c learn\\test\\3_25c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA913584-1C8F-4925-ADCD-4F64DA0FF354}|3_25c.vcxproj|E:\\vs2022\\c learn\\test\\3_25c\\3_25.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA913584-1C8F-4925-ADCD-4F64DA0FF354}|3_25c.vcxproj|solutionrelative:3_25.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3_25.c",
+              "DocumentMoniker": "E:\\vs2022\\c learn\\test\\3_25c\\3_25.c",
+              "RelativeDocumentMoniker": "3_25.c",
+              "ToolTip": "E:\\vs2022\\c learn\\test\\3_25c\\3_25.c",
+              "RelativeToolTip": "3_25.c",
+              "ViewState": "AQIAACQBAAAAAAAAAAAiwDQBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-25T02:27:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
